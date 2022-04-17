@@ -41,3 +41,6 @@ It compared the executives' performance for different months along with the prog
 It provides a way to analyze the profitability compared to what's happening in the entire industry.
 It looks at gross margin for the entire industry, broken down by segment. The CFO uses this page to compare company and business unit metrics to industry metrics to help them explain trends and profitability.
 <img width="578" alt="image" src="https://user-images.githubusercontent.com/101447005/163395099-edea7b1f-9e74-4809-bddf-f6855d233590.png">
+
+# Credits
+Made by Shreya Saini, Manisha Singh and Sakshi Chaudhary as part of evaluation for Computing Tools Workshop.
