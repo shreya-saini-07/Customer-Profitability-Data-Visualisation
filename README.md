@@ -43,4 +43,4 @@ It looks at gross margin for the entire industry, broken down by segment. The CF
 <img width="578" alt="image" src="https://user-images.githubusercontent.com/101447005/163395099-edea7b1f-9e74-4809-bddf-f6855d233590.png">
 
 # Credits
-Made by Shreya Saini, Manisha Singh and Sakshi Chaudhary as part of evaluation for Computing Tools Workshop.
+Made by Shreya Saini, Manisha Singh and Sakshi Chaudhary as part of evaluation for Computing Tools Workshop (referred from Obvience).
